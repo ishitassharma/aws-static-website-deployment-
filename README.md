@@ -1,4 +1,4 @@
-** Deploy Static Website on AWS (S3 + CloudFront**
+ Deploy Static Website on AWS (S3 + CloudFront)
 
 This project demonstrates deploying a static website using **Amazon S3**, configuring access with **IAM Policies**, and distributing content globally via **Amazon CloudFront**. The website contains only static assets (HTML/CSS/JS) and does not require server-side processing.
 
